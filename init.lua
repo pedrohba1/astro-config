@@ -18,7 +18,7 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "astrodark",
+  colorscheme = "gruvbox-baby",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
@@ -54,7 +54,7 @@ return {
     },
   },
 
-  -- Configure require("lazy").setup() options
+  -- Confighhhhhhkuire("lazy").setup() options
   lazy = {
     defaults = { lazy = true },
     performance = {
